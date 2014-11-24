@@ -4,7 +4,7 @@ Plugin Name: My appointments dashboard widget
 Description: Shows my appointmetns in the dashboard widget
 Plugin URI: http://premium.wpmudev.org/project/appointments-plus/
 Version: 1.0
-AddonType: Schedule
+AddonType: Dashboard Widget
 Author: WPMU DEV (Ash)
 */
 
